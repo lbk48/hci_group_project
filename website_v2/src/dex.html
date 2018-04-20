@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="author" content="">
+<title>Metric Operations</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+<script src="https://cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.js"></script>
+<script src="csv_reader.js"></script>
+
+<style>
+@import url(https://fonts.googleapis.com/css?family=Karla:400);
+body{
+	font-family: Karla, sans-serif;
+	zoom: 110%;
+}
+</style>
+</head>
+<body>
+<nav class="navbar navbar-default navbar-static-top">
+<div class="container">
+<div class="navbar-header">
+<a class="navbar-brand" href="#">Metric Operations</a>
+</div>
+<div id="navbar" class="navbar-collapse collapse">
+<ul class="nav navbar-nav navbar-middle">
+<li><a href="index.html">Home</a></li>
+<li><a href="vas.html">Volume Availability Status</a></li>
+<li class="active"><a href="#">DEX Exception</a></li>
+<li><a href="pph.html">Packages Per Hour</a></li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Drill Down<span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li><a href="#">Scope</a></li>
+<li><a href="#">Region</a></li>
+<li><a href="#">District</a></li>
+<li><a href="#">Location</a></li>
+<li role="separator" class="divider"></li>
+<li><a href="#">Scope Name</a></li>
+<li><a href="#">Region Name</a></li>
+<li><a href="#">District Name</a></li>
+<li><a href="#">Location Name</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<div class="container">
+<div class="jumbotron">
+<h2>Location: Drilldown and Name</h2>
+<!--
+	<p>
+	<div class="form-group">
+	<div class="col-xs-4">
+	<label>Select Date Range:</label>
+	<input type="text" class="form-control" name="daterange" value="" />
+	<br /><label for="sel1">DEX Number:</label>
+	<select class="form-control" id="sel1">
+	<option>1</option>
+	<option>2</option>
+	<option>3</option>
+	<option>4</option>
+	</select>
+	<br /><a class="btn btn-info" href="#">DEX Types</a>
+	</div>
+	</div>
+	</p>
+-->
+<p>
+<div id="body" style="width:50%">
+	<!-- input idea from: https://mounirmesselmeni.github.io/2012/11/20/reading-csv-file-with-javascript-and-html5-file-api/ -->
+	<input type="file" id="csvFileInput" onchange="handleFiles(this.files)" accept=".csv">
+	<canvas id="polarAreaChart" height='200' width='200'></canvas>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+	<script src="main.js"></script>
+</div>
+<!-- <img src="../img/dex.png" /> -->
+</p>
+</div>
+</div>
+<script type="text/javascript">
+$(function() {
+    $('input[name="daterange"]').daterangepicker();
+});
+</script>
+</body>
+</html>

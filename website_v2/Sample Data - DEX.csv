@@ -1,0 +1,135 @@
+Division,Region,District,Location,Senior Manager,Type,State,Country,LocNum,DEX,Date,Time
+US Ops,Eastern,Bostonian,ORHA,Reginald Cruz,Station,MA,US,16,2,3/20/2018,0:15
+US Ops,Eastern,Bostonian,ORHA,Reginald Cruz,Station,MA,US,16,5,3/20/2018,0:20
+US Ops,Eastern,Bostonian,ORHA,Reginald Cruz,Station,MA,US,16,3,3/20/2018,0:25
+US Ops,Eastern,Bostonian,ORHA,Reginald Cruz,Station,MA,US,16,4,3/20/2018,0:30
+US Ops,Eastern,Bostonian,ORHA,Reginald Cruz,Station,MA,US,16,1,3/20/2018,0:35
+US Ops,Eastern,Bostonian,ORHA,Reginald Cruz,Station,MA,US,16,7,3/20/2018,0:40
+US Ops,Eastern,Bostonian,ORHA,Reginald Cruz,Station,MA,US,16,13,3/20/2018,0:45
+US Ops,Eastern,Bostonian,ORHA,Reginald Cruz,Station,MA,US,16,12,3/20/2018,0:50
+US Ops,Eastern,Bostonian,ORHA,Reginald Cruz,Station,MA,US,16,10,3/20/2018,0:55
+US Ops,Eastern,Bostonian,ORHA,Reginald Cruz,Station,MA,US,16,8,3/20/2018,1:00
+US Ops,Eastern,Bostonian,ORHA,Reginald Cruz,Station,MA,US,16,4,3/26/2018,13:00
+US Ops,Eastern,Bostonian,ORHA,Reginald Cruz,Station,MA,US,16,4,3/26/2018,14:00
+US Ops,Eastern,Bostonian,ORHA,Reginald Cruz,Station,MA,US,16,2,3/26/2018,15:00
+US Ops,Eastern,Bostonian,ORHA,Reginald Cruz,Station,MA,US,16,9,3/26/2018,16:00
+US Ops,Eastern,Bostonian,ORHA,Reginald Cruz,Station,MA,US,16,14,3/26/2018,17:00
+US Ops,Eastern,Bostonian,BEDA,Molly Fisher,Station,MA,US,21,14,3/20/2018,0:15
+US Ops,Eastern,Bostonian,NZWA,Lillie Barker,Station,MA,US,23,16,3/20/2018,0:15
+US Ops,Eastern,Bostonian,BVYA,Ian Barton,Station,MA,US,26,10,3/20/2018,0:15
+US Ops,Eastern,Bostonian,PVDA,Kelly Larson,Station,RI,US,29,13,3/20/2018,0:15
+US Ops,Eastern,Bostonian,PSMA,Aubrey Cook,Station,NH,US,38,9,3/20/2018,0:15
+US Ops,Eastern,Bostonian,BGRA,Sheila Fleming,Station,ME,US,44,5,3/20/2018,0:15
+US Ops,Eastern,Bostonian,AUGA,Jody Williamson,Station,ME,US,221,3,3/20/2018,0:15
+US Ops,Eastern,Bostonian,OWDA,Luke Richardson,Station,MA,US,238,5,3/20/2018,0:15
+US Ops,Eastern,Bostonian,CEFA,Clayton Curtis,Station,MA,US,269,4,3/20/2018,0:15
+US Ops,Eastern,Big Apple,NYCA,Andre Hunter,Station,NY,US,100,1,3/20/2018,0:15
+US Ops,Eastern,Big Apple,JRBA,Ricardo French,Station,NY,US,101,12,3/20/2018,0:20
+US Ops,Eastern,Big Apple,WTCA,Pearl Howell,Station,NY,US,102,4,3/20/2018,0:25
+US Ops,Eastern,Big Apple,HPNA,Laverne Morgan,Station,NY,US,106,6,3/20/2018,0:30
+US Ops,Eastern,Big Apple,LGAA,Jeannie Owens,Station,NY,US,111,6,3/20/2018,0:35
+US Ops,Eastern,Big Apple,FIDA,June Benson,Station,NY,US,243,11,3/20/2018,0:40
+US Ops,Eastern,Big Apple,JRAA,Kerry Ballard,Station,NY,US,311,8,3/20/2018,0:45
+US Ops,Eastern,Big Apple,TSSA,Caroline Long,Station,NY,US,316,1,3/20/2018,0:50
+US Ops,Eastern,Big Apple,FBTA,Rodney Norton,Station,NY,US,372,13,3/20/2018,0:55
+US Ops,Eastern,Big Apple,FOKA,May Douglas,Station,NY,US,391,15,3/20/2018,1:00
+US Ops,Eastern,Capital,GAIA,Leona Watson,Station,MD,US,208,2,3/20/2018,1:05
+US Ops,Eastern,Capital,HGRA,Mae Ortega,Station,MD,US,217,10,3/20/2018,1:10
+US Ops,Eastern,Capital,DGNA,Jermaine Jones,Station,VA,US,224,10,3/20/2018,1:15
+US Ops,Eastern,Capital,CHOA,Misty Cannon,Station,VA,US,229,5,3/20/2018,1:20
+US Ops,Eastern,Capital,ORFA,Matt Holloway,Station,VA,US,235,6,3/20/2018,1:25
+US Ops,Eastern,Capital,JPNA,Theodore Warner,Station,DC,US,246,14,3/20/2018,1:30
+US Ops,Eastern,Capital,MQIA,Mattie Christensen,Station,NC,US,263,7,3/20/2018,1:35
+US Ops,Eastern,Capital,PHFA,Ed Townsend,Station,VA,US,266,11,3/20/2018,1:40
+US Ops,Eastern,Capital,PTBA,Melinda Martin,Station,VA,US,271,9,3/20/2018,1:45
+US Ops,Eastern,Capital,BCBA,Leroy Thompson,Station,VA,US,348,13,3/20/2018,1:50
+US Ops,Western,Canyon,ZSYA,Melvin Carpenter,Station,AZ,US,127,3,3/20/2018,1:55
+US Ops,Western,Canyon,BTFA,Shelly Garner,Station,UT,US,297,2,3/20/2018,2:00
+US Ops,Western,Canyon,MSCA,Kevin Stevenson,Station,AZ,US,397,16,3/20/2018,2:05
+US Ops,Western,Canyon,SGUA,Randall Clark,Station,UT,US,499,7,3/20/2018,2:10
+US Ops,Western,Canyon,OGDA,Hazel Tyler,Station,UT,US,574,7,3/20/2018,2:15
+US Ops,Western,Canyon,VGTA,Laurence Harper,Station,NV,US,663,17,3/20/2018,2:20
+US Ops,Western,Canyon,JACA,Renee Cohen,Station,WY,US,793,13,3/20/2018,2:25
+US Ops,Western,Canyon,ELPA,Gloria Medina,Station,TX,US,799,14,3/20/2018,2:30
+US Ops,Western,Canyon,LHUA,Adrian Day,Station,AZ,US,812,14,3/20/2018,2:35
+US Ops,Western,Canyon,RKSA,Kelley Gross,Station,WY,US,830,16,3/20/2018,2:40
+US Ops,Western,Mountain,BJCA,Leslie Watkins,Station,CO,US,457,10,4/20/2018,2:45
+US Ops,Western,Mountain,WHHA,Erma Lowe,Station,CO,US,459,13,4/20/2018,2:50
+US Ops,Western,Mountain,RIWA,Stacy Adkins,Station,WY,US,493,9,4/20/2018,2:55
+US Ops,Western,Mountain,MTJA,Isaac Harris,Station,CO,US,497,5,4/20/2018,3:00
+US Ops,Western,Mountain,SBSA,Hubert Lambert,Station,CO,US,498,3,4/20/2018,3:05
+US Ops,Western,Mountain,GCCA,Delores Knight,Station,WY,US,500,5,4/20/2018,3:10
+US Ops,Western,Mountain,SHRA,Cary Goodman,Station,WY,US,505,4,4/20/2018,3:15
+US Ops,Western,Mountain,BKFA,Jorge Hansen,Station,CO,US,795,1,4/20/2018,3:20
+US Ops,Western,Mountain,DENA,Jan Buchanan,Station,CO,US,802,12,4/20/2018,12:45
+US Ops,Western,Mountain,FTCA,Terence Moreno,Station,CO,US,805,4,4/20/2018,13:00
+US Ops,Western,Pacific Northwest,EATA,Tammy Davis,Station,WA,US,225,6,4/20/2018,13:15
+US Ops,Western,Pacific Northwest,BVUA,Percy Sharp,Station,WA,US,400,6,4/20/2018,13:30
+US Ops,Western,Pacific Northwest,SEAA,Diane McCarthy,Station,WA,US,588,11,4/20/2018,13:45
+US Ops,Western,Pacific Northwest,LMTA,Juanita Wright,Station,OR,US,715,8,4/20/2018,14:00
+US Ops,Western,Pacific Northwest,PAEA,Isabel Mann,Station,WA,US,728,1,4/20/2018,14:15
+US Ops,Western,Pacific Northwest,MFRA,Erin Bell,Station,OR,US,817,13,4/20/2018,14:30
+US Ops,Western,Pacific Northwest,CLMA,Jill Bradley,Station,WA,US,822,15,4/20/2018,14:45
+US Ops,Western,Pacific Northwest,HIOA,Terrence Pratt,Station,OR,US,825,2,4/20/2018,15:00
+US Ops,Western,Pacific Northwest,PDTA,Pauline Dean,Station,OR,US,832,10,4/20/2018,15:15
+US Ops,Western,Pacific Northwest,BOIA,Lisa Munoz,Station,ID,US,837,10,4/20/2018,15:30
+US Ops,Central,Three Rivers,LNNA,Gertrude Lawson,Station,OH,US,50,5,4/20/2018,15:45
+US Ops,Central,Three Rivers,PITA,Bessie Owen,Station,PA,US,152,6,4/20/2018,16:00
+US Ops,Central,Three Rivers,AGCA,Amy Miller,Station,PA,US,154,14,4/20/2018,16:15
+US Ops,Central,Three Rivers,LBEA,Dallas Jenkins,Station,PA,US,156,7,4/20/2018,16:30
+US Ops,Central,Three Rivers,ERIA,Janice White,Station,PA,US,165,11,4/20/2018,16:45
+US Ops,Central,Three Rivers,AOOA,Marie Rose,Station,PA,US,166,9,4/20/2018,17:00
+US Ops,Central,Three Rivers,JSTA,Lora Lee,Station,PA,US,169,13,4/20/2018,17:15
+US Ops,Central,Three Rivers,HLGA,Derek Garcia,Station,WV,US,260,3,4/20/2018,17:30
+US Ops,Central,Three Rivers,MGWA,Victor Wolfe,Station,WV,US,265,2,4/20/2018,17:45
+US Ops,Central,Three Rivers,MEJA,Jon Santiago,Station,PA,US,281,16,4/20/2018,18:00
+US Ops,Central,Great Lakes,PLNA,Veronica Holmes,Station,MI,US,37,7,4/20/2018,18:15
+US Ops,Central,Great Lakes,CLUA,Deanna Byrd,Station,IN,US,279,7,4/20/2018,18:30
+US Ops,Central,Great Lakes,TOLA,Cindy Payne,Station,OH,US,436,17,4/20/2018,18:45
+US Ops,Central,Great Lakes,MZZA,Cheryl Mitchell,Station,IN,US,460,13,4/20/2018,19:00
+US Ops,Central,Great Lakes,FWAA,Sonja Patrick,Station,IN,US,468,14,4/20/2018,19:15
+US Ops,Central,Great Lakes,OKKA,Janet Harmon,Station,IN,US,469,14,4/20/2018,19:30
+US Ops,Central,Great Lakes,MIEA,Flora Collins,Station,IN,US,473,16,4/20/2018,19:45
+US Ops,Central,Great Lakes,BMGA,Mable Wells,Station,IN,US,474,10,4/20/2018,20:00
+US Ops,Central,Great Lakes,HUFA,Kellie Ray,Station,IN,US,478,13,4/20/2018,20:15
+US Ops,Central,Great Lakes,LAFA,Inez May,Station,IN,US,479,9,4/20/2018,20:30
+US Ops,Central,Piedmont,ROAA,Sylvester Burgess,Station,VA,US,240,5,4/21/2018,20:45
+US Ops,Central,Piedmont,LYHA,Elaine Parker,Station,VA,US,245,3,4/22/2018,21:00
+US Ops,Central,Piedmont,CRWA,Cameron Hart,Station,WV,US,253,5,4/23/2018,21:15
+US Ops,Central,Piedmont,PKBA,Howard Hines,Station,WV,US,261,4,4/24/2018,21:30
+US Ops,Central,Piedmont,RDUA,Don Harrington,Station,NC,US,276,1,4/25/2018,21:45
+US Ops,Central,Piedmont,RWIA,Corey Fuller,Station,NC,US,278,12,4/26/2018,22:00
+US Ops,Central,Piedmont,HKYA,Chelsea Love,Station,NC,US,280,4,4/27/2018,22:15
+US Ops,Central,Piedmont,QWGA,Francis Russell,Station,NC,US,282,6,4/28/2018,22:30
+US Ops,Central,Piedmont,FAYA,Jerry Becker,Station,NC,US,283,6,4/29/2018,22:45
+US Ops,Central,Piedmont,MRNA,Lee Fitzgerald,Station,NC,US,355,11,4/30/2018,23:00
+US Ops,Southern,Southeast,RMGA,Jordan Casey,Station,GA,US,91,8,5/1/2018,23:15
+US Ops,Southern,Southeast,AVLA,Ralph Webster,Station,NC,US,288,1,5/2/2018,23:30
+US Ops,Southern,Southeast,GSPA,Kathleen Silva,Station,SC,US,296,13,5/3/2018,23:45
+US Ops,Southern,Southeast,ANDA,Crystal Norris,Station,SC,US,298,15,5/4/2018,23:40
+US Ops,Southern,Southeast,FTYA,Pat Ford,Station,GA,US,300,2,5/5/2018,23:35
+US Ops,Southern,Southeast,MGEA,Douglas Nelson,Station,GA,US,302,10,5/6/2018,23:30
+US Ops,Southern,Southeast,AHNA,Pete Griffin,Station,GA,US,306,10,5/7/2018,23:25
+US Ops,Southern,Southeast,NCQA,Roosevelt Wade,Station,GA,US,308,5,5/8/2018,23:20
+US Ops,Southern,Southeast,AGSA,Daisy Blake,Station,GA,US,309,6,5/9/2018,23:15
+US Ops,Southern,Southeast,MCNA,Homer Chapman,Station,GA,US,312,14,5/10/2018,23:10
+US Ops,Southern,South Florida,BCTA,Jessie Sims,Station,FL,US,2,7,4/20/2018,23:05
+US Ops,Southern,South Florida,TMBA,Dawn Norman,Station,FL,US,10,11,4/21/2018,23:00
+US Ops,Southern,South Florida,HSTA,Maria Bell,Station,FL,US,14,9,4/22/2018,22:55
+US Ops,Southern,South Florida,PBIA,Rita Bowers,Station,FL,US,334,13,4/23/2018,22:50
+US Ops,Southern,South Florida,SRQA,Bert Hubbard,Station,FL,US,335,3,4/24/2018,22:45
+US Ops,Southern,South Florida,PIEA,Gladys Ryan,Station,FL,US,337,2,4/25/2018,22:40
+US Ops,Southern,South Florida,LALA,Stephanie Stewart,Station,FL,US,338,16,4/26/2018,22:35
+US Ops,Southern,South Florida,FMYA,Al Rios,Station,FL,US,339,7,4/27/2018,22:30
+US Ops,Southern,South Florida,FPRA,Bobbie Schwartz,Station,FL,US,340,7,4/28/2018,22:25
+US Ops,Southern,South Florida,APFA,Kristina Joseph,Station,FL,US,385,17,4/29/2018,22:20
+US Ops,Southern,Delta,MQYA,Luz Jennings,Station,TN,US,369,13,4/30/2018,22:15
+US Ops,Southern,Delta,BNAA,Melinda Chapman,Station,TN,US,370,14,5/1/2018,22:10
+US Ops,Southern,Delta,OLVA,Lyle Brock,Station,TN,US,380,14,5/2/2018,22:05
+US Ops,Southern,Delta,MKLA,Mitchell Daniel,Station,TN,US,383,16,5/3/2018,22:00
+US Ops,Southern,Delta,TUPA,Olga Rodriquez,Station,MS,US,388,10,5/4/2018,21:55
+US Ops,Southern,Delta,CRXA,Flora Vega,Station,MS,US,430,13,5/5/2018,21:50
+US Ops,Southern,Delta,BWGA,Tammy Gordon,Station,KY,US,540,9,5/6/2018,21:45
+US Ops,Southern,Delta,LITA,Israel Lawson,Station,AR,US,722,5,5/7/2018,21:40
+US Ops,Southern,Delta,OKCA,Silvia Boyd,Station,OK,US,723,3,5/8/2018,21:35
+US Ops,Southern,Delta,JBRA,Donna Gardner,Station,AR,US,724,5,5/9/2018,21:30
